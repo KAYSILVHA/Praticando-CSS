@@ -1,0 +1,59 @@
+@media screen and (max-width:1005px){
+  header{
+    position: relative;
+  }
+  .navbar{
+    display: none;
+  }
+  .logo{
+    text-align: center;
+  }
+
+  .apresentacao{
+    padding-top: 50px;
+  }
+
+  .headline{
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+  }
+
+  .headline p{
+    text-align: justify;
+    font-size: .9em;
+  }
+
+  .contact-btn{
+    display: flex;
+    align-self: center;
+  }
+
+  .img-headline{
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+  }
+
+  .headline #principal{
+    font-size: 50px;
+  }
+  
+  .headline #best{
+    font-size: 1em;
+    letter-spacing: 10px;
+  }
+
+  .whats{
+    display: none;
+  }
+
+  .card{
+    width: 100%;
+  }
+
+  section h2{
+    font-size: 30px;
+  }
+
+}
